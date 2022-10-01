@@ -1,43 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Christopher J. Fiscus, PhD
 
 # Full name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Christopher
+last_name: Fiscus
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of California, Irvine
+    url: https://uci.edu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evolutionary genomics
+  - Bioinformatics
+  - Quantitative genetics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Genetics, Genomics and Bioinformatics
+      institution: University of California, Riverside
+      year: 2022
+    - course: BSc in Biotechnology
+      institution: University of California, Davis
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -49,23 +46,23 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/fiscuscj
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=hbczEsMAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cjfiscus
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/cjfiscus/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: https://github.com/cjfiscus/CV/blob/master/Fiscus_CJ-CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -73,9 +70,10 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am an evolutionary geneticist and postdoctoral researcher in the [Gaut lab](https://www.gautlab.bio.uci.edu) in the Department of Ecology and Evolutionary Biology at UC Irvine.  
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My research interests include plant genome evolution, the genetic basis of complex traits, and comparative genomics.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I did my PhD in the [Koenig lab](https://sites.google.com/ucr.edu/koeniglab/home) in the Department of Botany and Plant Sciences at UC Riverside.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/cjfiscus/CV/raw/master/Fiscus_CJ-CV.pdf" "newtab" >}}CV{{< /staticref >}}.

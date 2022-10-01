@@ -7,27 +7,27 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 90
 
-title: Skills
+title: Programming languages
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description:
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
-    icon: chart-line
+  - description:
+    icon: terminal
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+    name: bash
+  - description: 
+    icon: python
+    icon_pack: fab
+    name: python
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

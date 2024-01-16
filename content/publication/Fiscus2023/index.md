@@ -26,7 +26,7 @@ date: '2023-12-23T00:00:00Z'
 doi: 'https://doi.org/10.1101/2023.12.21.572659'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,8 +35,8 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication:  *bioRxiv*
-publication_short: *bioRxiv*
+publication:  bioRxiv
+publication_short: bioRxiv
 
 abstract: Cowpea is a highly drought-adapted leguminous crop with great promise for improving agricultural sustainability and food security. Here, we report analyses derived from array-based genotyping of 2,021 accessions constituting a core subset of the world’s largest cowpea collection, held at the International Institute of Tropical Agriculture (IITA) in Ibadan, Nigeria. We used this dataset to examine genetic variation and population structure in worldwide cowpea. We confirm that the primary pattern of population structure is two geographically defined subpopulations origining in West and East Africa, respectively, and that population structure is associated with shifts in phenotypic distribution. Furthermore, we establish the cowpea core collection as a resource for genome-wide association studies by mapping the genetic basis of several phenotypes, with a focus on seed coat pigmentation patterning and color. We anticipate that the genotyped IITA cowpea core collection will serve as a powerful tool for mapping complex traits, facilitating the acceleration of breeding programs to enhance the resilience of this crop in the face of rapid global climate change.
 

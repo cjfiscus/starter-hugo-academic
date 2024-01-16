@@ -23,8 +23,8 @@ bio:
 # Interests to show in About widget
 interests:
   - Evolutionary genomics
+  - Population genetics
   - Bioinformatics
-  - Quantitative genetics
 
 # Education to show in About widget
 education:
@@ -43,19 +43,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:fiscuscj@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/fiscuscj
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=hbczEsMAAAAJ&hl=en&oi=ao
+    link: https://scholar.google.com/citations?user=LuSwKZEAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/cjfiscus
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/cjfiscus/
+    link: https://www.linkedin.com/in/fiscuscj/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -72,8 +72,8 @@ highlight_name: true
 ---
 I am an evolutionary geneticist and postdoctoral researcher in the [Gaut lab](https://www.gautlab.bio.uci.edu) in the Department of Ecology and Evolutionary Biology at UC Irvine.  
 
-My research interests include plant genome evolution, the genetic basis of complex traits, and comparative genomics.  
+My research interests include plant genome evolution, the genetic basis of complex traits, and comparative genomics. My current projects are focused on studying the evolution of grape crop wild relatives.  
 
-I did my PhD in the [Koenig lab](https://sites.google.com/ucr.edu/koeniglab/home) in the Department of Botany and Plant Sciences at UC Riverside.  
+I did my PhD in the [Koenig lab](https://sites.google.com/ucr.edu/koeniglab/home) in the Department of Botany and Plant Sciences at UC Riverside. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/cjfiscus/CV/raw/master/Fiscus_CJ-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/cjfiscus/CV/blob/master/Fiscus-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
